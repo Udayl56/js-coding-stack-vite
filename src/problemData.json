@@ -1,0 +1,64 @@
+{
+    "problems": [
+        {
+            "id": "1",
+            "title": "Multiples of 3 or 5"
+        },
+        {
+            "id": "2",
+            "title": "Clock"
+        },
+        {
+            "id": "3",
+            "title": "Century From Year"
+        },
+        {
+            "id": "4",
+            "title": "Keep Hydrated"
+        },
+        {
+            "id": "5",
+            "title": "Get the Middle Character"
+        },
+        {
+            "id": "6",
+            "title": "Create Phone Number"
+        },
+        {
+            "id": "7",
+            "title": "Square Every Digit"
+        },
+        {
+            "id": "8",
+            "title": "Mumbling"
+        },
+        {
+            "id": "9",
+            "title": "Bit Counting"
+        },
+        {
+            "id": "10",
+            "title": "Find The Parity Outlier"
+        },
+        {
+            "id": "11",
+            "title": "Extract the Domain Name From a URL"
+        },
+        {
+            "id": "12",
+            "title": "Persistent Bugger"
+        },
+        {
+            "id": "13",
+            "title": "Reverse Integer"
+        },
+        {
+            "id": "14",
+            "title": "Returning Strings"
+        },
+        {
+            "id": "15",
+            "title": "Is n Divisible by x and y?"
+        }
+    ]
+}
